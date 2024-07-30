@@ -1,6 +1,6 @@
 # Nuclei Templates 
 
-Welcome to the Nuclei Templates Repository! This repository contains a collection of Nuclei templates for various security testing purposes. Nuclei is a fast and flexible vulnerability scanner that helps automate the process of identifying vulnerabilities and security issues.
+Welcome to the Nuclei Templates Repository! This repository contains a collection of Nuclei templates for various security testing purposes. Nuclei is a fast and flexible vulnerability scanner that helps automate the process of identifying vulnerabilities and security issues. I only publish the templates that I have personally created and tested.
 
 ## Table of Contents
 
