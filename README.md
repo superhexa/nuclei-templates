@@ -31,7 +31,7 @@ To use the templates in this repository, follow these steps:
 
 4. **Run Templates**: Use the Nuclei command to scan using the templates from this repository.
    ```bash
-   nuclei -t <templates_path>
+   nuclei -t <templates_path> -u https://example.com
    ```
 
 ## Contributing
